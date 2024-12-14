@@ -4,7 +4,7 @@ Embosseuse Braille Open Source
 
 La documentation complete est disponible ici http://braillerapsp.readthedocs.io/fr/latest/index.html
 
-voir egalement http://www.braillerap.org
+voir egalement https://www.braillerap.org
 
 ==========================================================================
 
